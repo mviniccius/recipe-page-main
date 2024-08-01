@@ -45,6 +45,7 @@ h2 {
     border-radius: 8px;
     color: #928887;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
 }
 .preparation-point ::marker{
     color: #9c677f;    
